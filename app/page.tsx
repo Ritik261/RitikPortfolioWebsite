@@ -174,9 +174,9 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-12 text-center text-gray-900">Get In Touch</h2>
           <div className="max-w-lg mx-auto">
             <div className="flex flex-col space-y-4 text-center">
-              <p className="text-gray-700">
-                I'm currently looking for new opportunities in Python Development and Data Analysis. Feel free to reach out!
-              </p>
+            <p className="text-gray-700">
+  I&apos;m currently looking for new opportunities in Python Development and Data Analysis. Feel free to reach out!
+</p>
               <div className="space-y-4">
               <div className="flex items-center justify-center space-x-2">
             <FaEnvelope className="text-orange-600" />
